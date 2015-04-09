@@ -16,7 +16,7 @@ We invite all those who participate in our community to help us create safe and 
 
 ## Anti-harassment Policy
 
-The Suncoast Developers Guild is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of anyone in any form. Sexual language and imagery is not appropriate for any venue, including talks and chat channels. Individuals violating these rules may be sanctioned or expelled from the event or communication channel at the discretion of our organizers.
+The Suncoast Developers Guild is dedicated to providing a harassment-free experience for all, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of anyone in any form. Sexual language and imagery is not appropriate for any venue, including talks and chat channels. Individuals violating these rules may be sanctioned or expelled from the event or communication channel at the discretion of our organizers.
 
 Harassment includes verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion; sexual images in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; and unwelcome sexual attention. Participants asked to stop any harassing behavior are expected to comply immediately.
 
