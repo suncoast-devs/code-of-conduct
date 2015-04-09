@@ -1,2 +1,1 @@
-# code-of-conduct
-The Code of Conduct adopted by The Suncoast Developers Guild community.
+This repository contains the Open Source [Code of Conduct](https://github.com/suncoast-devs/code-of-conduct/blob/master/code-of-conduct.md) adopted by [The Suncoast Developers Guild](http://suncoast.io).
