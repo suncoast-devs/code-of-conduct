@@ -26,9 +26,9 @@ The Suncoast Developers Guild strictly prohibits violence, threats of violence, 
 
 ## Privacy Concerns
 
-Your privacy is important to us. While photographs may be taken during events and can be shared by members on group's Meetup page, social media, etc., no photograph shall be used for promotional purposes without verbal and/or written consent of the attendees. If a group photograph is taken, your participation will serve as your agreement to the use of such a photograph for promotional purposes. If you are uncomfortable having your photograph shared, please let us know.
+Your privacy is important to us. While photographs may be taken during events and can be shared by members on group's Meetup page, social media, etc., no photograph shall be used for commercial purposes without verbal and/or written consent of the attendees. If a group photograph is taken, your participation will serve as your agreement to the use of such a photograph for promotional purposes. If you are uncomfortable having your photograph shared, please let us know.
 
-[TODO: Policy and awareness statement about public chat rooms]
+In public communication channels and events, please remember there is no reasonable expectation of privacy. Please be aware that any information you divulge in these arenas is deemed public information and is not protected.
 
 ## Consequences Of Unacceptable Behavior
 
@@ -42,7 +42,12 @@ Organizers will be happy to help participants contact security or local law enfo
 
 ## Contacting Our Community Leaders
 
-[Contact information for organizers]
+| Organization | Name           | Email                 | Twitter      | Slack        |
+|--------------|----------------|-----------------------|--------------|--------------|
+| Tampa.rb     | Jason L Perry  | jasper@ambethia.com   | @ambethia    | @ambethia    |
+| Tampa.rb     | Gavin Stark    | gavin@gstark.com      | @gavinstark  | @gavinstark  |
+| Suncoast.js  | Tyler Johnston | tylerjohnst@gmail.com | @tylerjohnst | @tylerjohnst |
+| Open Code    | Chet Bramble   | cjbramble@gmail.com   | @cjbramble   | @chetbramble |
 
 ## Scope
 
