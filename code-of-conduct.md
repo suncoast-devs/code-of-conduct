@@ -48,6 +48,6 @@ Organizers will be happy to help participants contact security or local law enfo
 
 We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues—online and in-person—as well as in all one-on-one communications pertaining to community business.
 
-The Suncoast Developers Guild developed this code of conduct using the [anti-harassment policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) created by the [Ada Initiative](https://adainitiative.org) (and other volunteers) as well as [Ruby Berlin's Code of Conduct](https://github.com/rubyberlin/code-of-conduct) as starting points.
+The Suncoast Developers Guild developed this code of conduct using the [anti-harassment policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) created by the [Ada Initiative](https://adainitiative.org) (and other volunteers) as well as [Ruby Berlin's Code of Conduct](https://github.com/rubyberlin/code-of-conduct) and the [Citizen Code of Conduct](http://citizencodeofconduct.org) as starting points.
 
-This Code of Conduct is licensed under the Creative Commons Zero license.
+This Code of Conduct is licensed under a [Creative Commons Attribution-ShareAlike](http://creativecommons.org/licenses/by-sa/4.0/) license.
