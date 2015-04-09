@@ -22,11 +22,11 @@ Harassment includes verbal comments that reinforce social structures of dominati
 
 ## Violence-Free Community
 
-The Suncoast Developers Guild strictly prohibits violence, threats of violence, and any other behavior that jeopardizes or harms the safety and wellbeing of our community members and their property. This includes aggression, intimidation, belligerence, and disruptive behavior.
+The Suncoast Developers Guild strictly prohibits violence, threats of violence, and any other behavior that jeopardizes or harms the safety and wellbeing of our community members or their property. This includes aggression, intimidation, belligerence, and disruptive behavior.
 
 ## Privacy Concerns
 
-Your privacy is important to us. While photographs may be taken during can be shared by members on group's Meetup page, social media, etc., no photograph shall be used for promotional purposes without verbal and/or written consent of the attendees. If a group photograph is taken, your participation will serve as your agreement to the use of such a photograph for promotional purposes. If you are uncomfortable having your photograph shared, please let us know.
+Your privacy is important to us. While photographs may be taken during events and can be shared by members on group's Meetup page, social media, etc., no photograph shall be used for promotional purposes without verbal and/or written consent of the attendees. If a group photograph is taken, your participation will serve as your agreement to the use of such a photograph for promotional purposes. If you are uncomfortable having your photograph shared, please let us know.
 
 [TODO: Policy and awareness statement about public chat rooms]
 
