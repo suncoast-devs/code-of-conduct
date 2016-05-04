@@ -24,6 +24,10 @@ Harassment includes verbal comments that reinforce social structures of dominati
 
 The Suncoast Developers Guild strictly prohibits violence, threats of violence, and any other behavior that jeopardizes or harms the safety and wellbeing of our community members or their property. This includes aggression, intimidation, belligerence, and disruptive behavior.
 
+## Technology Agnosticism
+
+Our mission is to bridge communities surrounding a multitude of technologies. Whether discussing programming languages, platforms, libraries, tools, or editors; our organizers strive to be open minded and positive toward all, and we expect that you'll do the same.
+
 ## Privacy Concerns
 
 Your privacy is important to us. While photographs may be taken during events and can be shared by members on group's Meetup page, social media, etc., no photograph shall be used for commercial purposes without verbal and/or written consent of the attendees. If you wish to take photographs of the group, announce your intent in advance, so members may opt-out. If a group photograph is taken, your participation will serve as your agreement to the use of such a photograph for promotional purposes. If you are uncomfortable having your photograph shared, please let us know. Taking photographs of members who do not wish to be photographed falls under the anti-harrassment policy.
