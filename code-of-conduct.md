@@ -48,11 +48,10 @@ Organizers will be happy to help participants contact security or local law enfo
 
 | Organization    | Name             | Email                    | Twitter      | Slack               |
 |-----------------|------------------|--------------------------|--------------|---------------------|
-| Tampa.rb        | Jason L Perry    | jasper@ambethia.com      | @ambethia    | @ambethia           |
-| Tampa.rb        | Gavin Stark      | gavin@gstark.com         | @gavinstark  | @gavinstark         |
+| Tampa.rb        | Jason L Perry    | jason@suncoast.io        | @ambethia    | @ambethia           |
+| Tampa.rb        | Gavin Stark      | gavin@suncoast.io        | @gavinstark  | @gavinstark         |
 | Suncoast.js     | Julian Duque     | julianduque@gmail.com    | @julian_duque| @julianduque        |
 | Suncoast.js     | Alyssa Amrhein   | heyahharissa@gmail.com   | @ahharissa   | @ahharissa          |
-| Open Code       | Chet Bramble     | cjbramble@gmail.com      | @cjbramble   | @chetbramble        |
 | Girl Develop It | Andrea Cannistra | andrea@girldevelopit.com | @acannist    | @andrea_gditampabay |
 
 ## Scope
